@@ -1,13 +1,13 @@
 # README
 
 This README would normally document whatever steps are necessary to get the
-application up and running.
+application up and running. For this app I assume you are on a windows enviroment.
 
 Things you may want to cover:
 
-* Install Ruby on your local machine
+* Install Ruby on your local machine: https://rubyinstaller.org/
 
-* Install RAILS on local machine. This app uses Rails 5
+* Install RAILS on local machine. This app uses Rails 5 : http://railsinstaller.org/en
 
 * Clone Repository: git clone https://github.com/AlexFoster009/spa_interview.git
 
