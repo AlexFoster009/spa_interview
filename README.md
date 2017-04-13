@@ -13,6 +13,8 @@ Things you may want to cover:
 
 * Change directory to spa_interview: cd spa_interview
 
+* Run: bundle install
+
 * Run: rake db:migrate
 
 * Run: rake db:seed
