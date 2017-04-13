@@ -15,6 +15,8 @@ Things you may want to cover:
 
 * Run: bundle install
 
+* (You make need to run the following command to create the database) rake db:create
+
 * Run: rake db:migrate
 
 * Run: rake db:seed
