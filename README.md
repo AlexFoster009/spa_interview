@@ -5,20 +5,22 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Install Ruby on your local machine
 
-* System dependencies
+* Install RAILS on local machine. This app uses Rails 5
 
-* Configuration
+* Clone Repository: git clone https://github.com/AlexFoster009/spa_interview.git
 
-* Database creation
+* Change directory to spa_interview: cd spa_interview
 
-* Database initialization
+* Run: rake db:migrate
 
-* How to run the test suite
+* Run: rake db:seed
 
-* Services (job queues, cache servers, search engines, etc.)
+* Run: rails s 
 
-* Deployment instructions
+* Navigate to localhost:3000 in your web browser
 
-* ...
+
+
+
